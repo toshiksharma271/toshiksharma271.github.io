@@ -3,7 +3,7 @@
 <div align="center" style="color:blue">
 
 <a href="https://github.com/toshiksharma271">student</a> · 
-<a href="https://github.com/toshiksharma271">C++</a> ·
+<a href="https://github.com/toshiksharma271">gamedev</a> ·
 <a href="https://github.com/toshiksharma271"> blockchain dev</a>
 
 <a href="https://toshiksharma271.github.io" target="_blank">checkout portfolio</a>
@@ -75,11 +75,11 @@
 
 <h3>Socials</h3>
 
-<a href="https://twitter.com/toshiksharma271_" target="_blank">Twitter</a> ·
-<a href="https://linkedin.com/in/toshiksharma271" target="_blank">LinkedIn</a> ·
+<a href="https://twitter.com/toshik_sharma" target="_blank">Twitter</a> ·
+<a href="https://linkedin.com/in/toshiksharma" target="_blank">LinkedIn</a> ·
 <a href="https://diamondapp.com/u/baingan" target="_blank">DeSo</a> ·
 <a href="https://instagram.com/toshiksharma271_" target="_blank">Instagram</a> ·
-<a href="https://reddit.com/u/TECHIE6023" target="_blank">Reddit</a> ·
+<a href="https://reddit.com/u/baingan" target="_blank">Reddit</a> ·
 <a href="https://discord.com/app" target="_blank">Discord (baingan#7094)</a> ·
 <a href="https://youtube.com/toshiksharma271" target="_blank">YouTube</a> 
     
