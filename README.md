@@ -1,6 +1,5 @@
 [![An image of @toshiksharma271's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/toshiksharma271)](https://holopin.io/@toshiksharma271)
 
-![github-header-image](https://github.com/akadeepesh/toshiksharma271.github.io/assets/100466756/493b4b1d-ede4-4ca1-9bdb-9e6d7be62bea)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full-Stack+Developer;I'm+Into+React+Developer)](https://git.io/typing-svg)
 <h1 align="center"> Hi 👋, I am Toshik Sharma</h1>
 
